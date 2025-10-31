@@ -67,3 +67,8 @@ Follow the notebook’s step‑by‑step analysis to explore the dataset and exp
 ## License
 
 This project is provided for learning purposes under the MIT License. You are free to reuse and modify the content to suit your needs.
+
+
+## Additional Notes
+
+This branch includes a minor update to demonstrate creating and reviewing a pull request on GitHub.
